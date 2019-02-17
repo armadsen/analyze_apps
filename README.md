@@ -1,6 +1,6 @@
 # analyze_apps
 
-This Python 3 script will do simple analysis of iOS or Mac apps to determine information about their usage of Swift. To use it, put it in a directory with `.app` bundles and run it. It will output a CSV file called `results.csv` in the same directory it's invoked.
+This Python 3 script will do simple analysis of iOS or Mac apps to determine information about their usage of Swift. To use it, put the `analyze_apps.py` file it in a directory with `.app` bundles and run it. It will output a CSV file called `results.csv` in the same directory it's invoked.
 
 # License
 
